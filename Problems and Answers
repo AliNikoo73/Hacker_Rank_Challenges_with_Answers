@@ -1,0 +1,12 @@
+Without using any string methods, try to print the following:
+
+123...n
+
+Note that "..." represents the consecutive values in between.
+
+Sample Input 0
+
+7
+Sample Output 0
+
+1234567
